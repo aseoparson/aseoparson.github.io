@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body {
+  background: #333;
+  background: url('valou-_c-705320-unsplash.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1
+{
+  background: #111;
+  padding: 10px;
+  width: 300px;
+  font-size: 50px;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  margin-top: 20vh;
+}
