@@ -1,0 +1,9 @@
+{
+  "name": "aseoparson.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aseoparson/aseoparson.github.io.git",
+  "author": "Anil Seoparson <anil@seoparson.com>",
+  "license": "MIT",
+  "private": false
+}
