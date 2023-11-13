@@ -5,13 +5,7 @@ html {
 
 body {
   background: #FFFFFF;
-}
-
-h1 {
-  width: 300px;
-  font-size: 50px;
-  font-family: monospace;;
-  text-align: left;
+  font-family: monospace;
   color: #000000;
   margin: 0 auto;
 }
