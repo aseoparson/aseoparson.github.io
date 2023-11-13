@@ -1,25 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 html {
   height: 100%;
 }
 
 body {
-  background: #333;
-  background: url('nyc.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: #FFFFFF;
 }
 
 h1 {
-  background: rgba(0,0,0,0.9);
   width: 300px;
   font-size: 50px;
-  font-family: 'Permanent Marker', cursive;
-  text-align: center;
-  color: rgba(255,255,255,0.8);
+  font-family: monospace;;
+  text-align: left;
+  color: #000000;
   margin: 0 auto;
-  margin-top: 20vh;
 }
