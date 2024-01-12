@@ -1,1 +1,0 @@
-# seoparson.com website
